@@ -1,3 +1,11 @@
+## IMPORTANT
+Create a folder called `comZombiesOffline` in `ux0:data` should look like
+```
+ux0:
+  └── /data/
+        └── /comZombiesOffline
+```
+
 # Call-of-Mini-Zombies-1-PSVita-Port
 Credit to Triniti for making the game.
 Credit to Overmet15 for decompiling the game.
